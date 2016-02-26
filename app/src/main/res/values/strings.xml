@@ -1,3 +1,9 @@
 <resources>
+    <!--Application-Wide-->
     <string name="app_name">Tutor</string>
+
+    <!--Menu-->
+    <string name="action_settings">Settings</string>
+
+
 </resources>

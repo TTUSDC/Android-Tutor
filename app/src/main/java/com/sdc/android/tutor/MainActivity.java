@@ -1,9 +1,13 @@
 package com.sdc.android.tutor;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.sdc.android.tutor.base.BaseActivity;
+
+/**
+ *  Main activity that is loaded upon application startup.
+ */
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
